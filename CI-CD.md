@@ -1,4 +1,4 @@
-# CI
+# CI/CD
 
 ## Services
 - https://circleci.com/
