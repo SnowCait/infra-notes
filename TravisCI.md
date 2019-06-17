@@ -15,3 +15,8 @@ https://docs.travis-ci.com/user/tutorial/
 
 ### GitHub Pages
 https://docs.travis-ci.com/user/deployment/pages/
+
+### Cache
+e.g. `node_modules`
+https://docs.travis-ci.com/user/caching/
+
