@@ -23,3 +23,5 @@ https://docs.travis-ci.com/user/languages/javascript-with-nodejs
 e.g. `node_modules`  
 https://docs.travis-ci.com/user/caching/
 
+### Deploy
+https://docs.travis-ci.com/user/deployment/
