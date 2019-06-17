@@ -16,7 +16,10 @@ https://docs.travis-ci.com/user/tutorial/
 ### GitHub Pages
 https://docs.travis-ci.com/user/deployment/pages/
 
+### Node.js
+https://docs.travis-ci.com/user/languages/javascript-with-nodejs
+
 ### Cache
-e.g. `node_modules`
+e.g. `node_modules`  
 https://docs.travis-ci.com/user/caching/
 
