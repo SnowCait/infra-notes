@@ -28,6 +28,7 @@
 - https://app.wercker.com/
 - https://www.cloudbees.com/ (Jenkins)
 - https://fastlane.tools/
+- [Argo CD - Declarative GitOps CD for Kubernetes](https://argoproj.github.io/argo-cd/)
 
 ## CI
 - unit test
