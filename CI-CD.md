@@ -29,6 +29,7 @@
 - https://www.cloudbees.com/ (Jenkins)
 - https://fastlane.tools/
 - [Argo CD - Declarative GitOps CD for Kubernetes](https://argoproj.github.io/argo-cd/)
+- [Bitrise - Mobile Continuous Integration and Delivery](https://www.bitrise.io/)
 
 ## CI
 - unit test
