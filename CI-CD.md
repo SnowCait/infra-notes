@@ -31,6 +31,10 @@
 - [Argo CD - Declarative GitOps CD for Kubernetes](https://argoproj.github.io/argo-cd/)
 - [Bitrise - Mobile Continuous Integration and Delivery](https://www.bitrise.io/)
 
+## 注意点
+- サーバー負荷の観点から CD サーバーと CI サーバーは物理的に分ける
+  - CI による負荷上昇で CD ができなくなることを防ぐ
+
 ## CI
 - unit test
 - resource usage (cpu, memory)
