@@ -7,3 +7,7 @@
 ## GCP
 
 - [春の入門祭り🌸 #18 Terraform 101 | フューチャー技術ブログ](https://future-architect.github.io/articles/20200624/)
+
+## CI
+
+- [Terraform開発時のDeveloper Experienceを爆上げする](https://zenn.dev/honmarkhunt/articles/2f03cba1ffe966)
