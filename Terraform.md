@@ -11,3 +11,5 @@
 ## CI
 
 - [Terraform開発時のDeveloper Experienceを爆上げする](https://zenn.dev/honmarkhunt/articles/2f03cba1ffe966)
+- [GitHub ActionsでTerraformを実行する - Qiita](https://qiita.com/keitakn/items/db2e9c68019594885ac4)
+- [GitHub Actionsでsetup-terraformを試す | Developers.IO](https://dev.classmethod.jp/articles/try-github-actions-setup-terraform/)
