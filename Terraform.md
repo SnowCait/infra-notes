@@ -15,3 +15,7 @@
 - [GitHub Actionsでsetup-terraformを試す | Developers.IO](https://dev.classmethod.jp/articles/try-github-actions-setup-terraform/)
 - Atlantis
   - [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
+
+## IaC
+
+- [IaC化されていないリソースをdriftctlで検知する](https://zenn.dev/gosarami/articles/dd938001eac988e44d11)
