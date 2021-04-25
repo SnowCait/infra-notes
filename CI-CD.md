@@ -30,6 +30,7 @@
 - https://fastlane.tools/
 - [Argo CD - Declarative GitOps CD for Kubernetes](https://argoproj.github.io/argo-cd/)
 - [Bitrise - Mobile Continuous Integration and Delivery](https://www.bitrise.io/)
+- [Drone CI – Automate Software Testing and Delivery](https://www.drone.io/)
 
 ## 注意点
 - サーバー負荷の観点から CD サーバーと CI サーバーは物理的に分ける
