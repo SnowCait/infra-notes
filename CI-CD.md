@@ -38,7 +38,7 @@
 
 ## CI
 - unit test
-- 
+- lint
 - resource usage (cpu, memory)
 
 ## CD
