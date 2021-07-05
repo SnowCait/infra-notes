@@ -23,3 +23,4 @@ v0.12 で HCL2 に上がったのでそれ以前の情報は参考にならな�
 ## IaC
 
 - [IaC化されていないリソースをdriftctlで検知する](https://zenn.dev/gosarami/articles/dd938001eac988e44d11)
+- [既存の環境からterraformのファイルを出力するterraformerを使ってみた | DevelopersIO](https://dev.classmethod.jp/articles/terraformer-aws-check/)
