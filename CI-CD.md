@@ -43,3 +43,6 @@
 
 ## CD
 - deployment
+
+## 参考
+- [成功するCI/CDのためのベストプラクティス | TeamCity CI/CDガイド | JetBrains](https://www.jetbrains.com/ja-jp/teamcity/ci-cd-guide/ci-cd-best-practices/)
