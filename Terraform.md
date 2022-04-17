@@ -7,6 +7,7 @@ v0.12 で HCL2 に上がったのでそれ以前の情報は参考にならな�
 ## AWS
 
 - [10分で理解するTerraform - Qiita](https://qiita.com/Chanmoro/items/55bf0da3aaf37dc26f73)
+- [terraformでVPC, サブネットを作成する - Qiita](https://qiita.com/sasshi_i/items/f4f65e18923d856be256)
 
 ## GCP
 
