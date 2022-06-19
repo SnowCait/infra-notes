@@ -24,6 +24,7 @@
 ## Services
 - [GitHub Actions](https://github.com/SnowCait/git-notes/blob/master/GitHubActions.md)
 - https://circleci.com/
+- [Xcode Cloud](https://developer.apple.com/xcode-cloud/)
 - https://coveralls.io/
 - https://app.wercker.com/
 - https://www.cloudbees.com/ (Jenkins)
