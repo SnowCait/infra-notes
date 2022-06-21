@@ -46,5 +46,9 @@
 ## CD
 - deployment
 
+## Flaky Test
+
+- [世界中のITエンジニアが悩まされている原因不明でテストが失敗する「フレイキーテスト」問題。対策の最新動向をJenkins作者の川口氏が解説（前編）。DevOps Days Tokyo 2022 － Publickey](https://www.publickey1.jp/blog/22/itjenkinsdevops_days_tokyo_2022.html)
+
 ## 参考
 - [成功するCI/CDのためのベストプラクティス | TeamCity CI/CDガイド | JetBrains](https://www.jetbrains.com/ja-jp/teamcity/ci-cd-guide/ci-cd-best-practices/)
