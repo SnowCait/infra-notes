@@ -20,6 +20,7 @@ v0.12 で HCL2 に上がったのでそれ以前の情報は参考にならな�
 - [GitHub Actionsでsetup-terraformを試す | Developers.IO](https://dev.classmethod.jp/articles/try-github-actions-setup-terraform/)
 - Atlantis
   - [Terraform Pull Request Automation | Atlantis](https://www.runatlantis.io/)
+- [Cloud cost estimates for Terraform in pull requests | Infracost](https://www.infracost.io/)
 
 ## IaC
 
